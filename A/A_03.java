@@ -16,3 +16,4 @@ class Main {
     s.close();
   }
 }
+
