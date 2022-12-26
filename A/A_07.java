@@ -18,3 +18,4 @@ class Main {
     System.out.println(bytes+" B");
   }
 }
+
