@@ -50,6 +50,7 @@ class Main {
           }
         }
         
+        
         total_charge += charge;
         System.out.println("The charge is " + charge);
         System.out.println();
